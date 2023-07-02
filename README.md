@@ -1,3 +1,6 @@
+<br>
+<img src="images/Screenshot 2023-07-02 205205.png">
+<br>
 # Deep Learning Plant Disease Detection
 
 This project implements a deep learning model for the detection of plant diseases. It uses a convolutional neural network (CNN) trained on a dataset consisting of various plant images labeled with their corresponding disease categories. The model can identify diseases in plants such as apple scab, black rot, powdery mildew, and many more.
