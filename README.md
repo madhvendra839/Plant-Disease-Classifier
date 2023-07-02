@@ -1,5 +1,5 @@
 <br>
-<img src="images/Screenshot 2023-07-02 205205.png">
+<img src="Screenshot 2023-07-02 205205.png">
 <br>
 # Deep Learning Plant Disease Detection
 
